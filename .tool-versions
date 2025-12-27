@@ -4,3 +4,4 @@ yq      4.30.8
 krew    0.4.3
 vault   1.13.2+ent
 velero  latest
+python  latest

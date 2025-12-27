@@ -62,3 +62,4 @@ alias mutt="COLORFGBG='15;color233' mutt"
 alias rot13="tr a-zA-Z n-za-mN-ZA-M"
 alias slrn="slrn -n"
 alias y=yaourt
+alias t=tmux
